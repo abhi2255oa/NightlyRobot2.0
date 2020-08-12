@@ -1,11 +1,11 @@
-ALLUKA_IMG = "https://telegra.ph/file/1308fbf433b0f02abaae6.jpg"
+ALLUKA_IMG = "https://telegra.ph/file/9b82012c9c7a2d268e67a.jpg"
 
 SOURCE_STRING = """
 I'm built in python3, using the python-telegram-bot library, and am fully opensource - you can find what makes me tick [here](https://github.com/anilchauhanxda/allukabot)
 """
 
 HELP = """
-Hey there! My name is *{}*.
+Hey there! My name is *{@Abhi2255o}*.
 I'm a modular group management bot with a few fun extras! Have a look at the following for an idea of some of \
 the things I can help you with.
 *Main* commands available:
