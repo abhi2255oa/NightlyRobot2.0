@@ -37,7 +37,7 @@ MIGRATEABLE = []
 HELPABLE = {}
 STATS = []
 USER_INFO = []
-DATA_IMPORT = []
+DATA_IMPORT = []h
 DATA_EXPORT = []
 
 CHAT_SETTINGS = {}
@@ -521,7 +521,7 @@ def main():
 
 
 CHATS_CNT = {}
-CHATS_TIME = {}
+CHATS_TIME = {} 
 
 
 def process_update(self, update):
